@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MPU6050_Footprint")(type "KiCad")(uri "/home/sohail/kicad-projects/kicad-libraries/MPU-6050/MPU6050.pretty")(options "")(descr "")(disabled))
+)
